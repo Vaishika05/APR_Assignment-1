@@ -56,4 +56,4 @@ The goal is to build a model that can classify whether a passenger survived (`1`
 ## How to Run
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/titanic-logistic-regression.git
+   git clone https://github.com/Vaishika05/APR_Assignment-1.git
